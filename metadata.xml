@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The history of philosophy in Islam</dc:title>
+      <dc:creator>Tjitze Jacobs de Boer (1866–1942)</dc:creator>
+      <dc:creator>Edward R. Jones</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2021-10-17</dc:publisher>
+      <dc:date>2021-10-17</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ The German original, Geschichte der Philosophie im Islam, is also available from Project Gutenberg.
+
+ Scans of this work are available from the Internet Archive (copy 1, 2).
+
+ </dc:rights>
+      <dc:subject>Islamic philosophy -- History</dc:subject>
+      <dc:description>This study of the History of Philosophy in Islam first appeared in German in 1901, translations in English, French, Arabic, and Urdu appeared shortly after. The author, Tjitze de Boer, is a Frisian farmer’s son, who initially started to study theology to become a minister, but switched to oriental studies, and became professor in Philosophy at the University of Amsterdam. In this book, his most important work, you can find an overview of the most important thinkers in the Islamic world, whose influence on the west is probably much larger than many in the west would like to admit. The Islamic translators preserved a lot of Greek works and Islamic philosophers build upon those, while Europe went through its dark ages. Thinkers like Al-Ghazali touched on subjects only to be picked up centuries later by Kant, and Ibn Rushd—better known here as Averroes—is by some considered the father of rationalism, and actually had more influence in the west than in the Islamic world, where Al-Ghazali is often considered the greatest philosopher.</dc:description>
+      <dc:identifier>pg:66566</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
